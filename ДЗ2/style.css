@@ -1,0 +1,28 @@
+html {
+  font-size: 15px;
+  font-family: 'Ibarra Real Nova', serif;
+  background-image: url("img/lamoda_7.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position:top;
+
+}
+h1 {
+  font-size: 50px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 2px 2px 2px gray;
+
+}
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+body {
+width: 600px;
+margin: 0 auto;
+padding: 0 20px 20px 20px
+border: 2px solid white;
+}
